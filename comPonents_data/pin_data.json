@@ -1,0 +1,13 @@
+{
+    "Raspberry Pi": [
+        "3.3V", "5V", "GPIO 2 (SDA1)", "5V", "GPIO 3 (SCL1)", "GND", 
+        "GPIO 4 (GPCLK0)", "GPIO 14 (TXD)", "GND", "GPIO 15 (RXD)", 
+        "GPIO 17", "GPIO 18 (PCM_CLK)", "GPIO 27", "GND", "GPIO 22", 
+        "GPIO 23", "3.3V", "GPIO 24", "GPIO 10 (MOSI)", "GND"
+    ],
+    "Arduino": [
+        "5V", "GND", "GPIO 0", "GPIO 1", "GPIO 2", "GPIO 3", 
+        "GPIO 4", "GPIO 5", "GND", "GPIO 6", "GPIO 7", "GPIO 8", 
+        "GPIO 9", "GPIO 10", "GND", "GPIO 11", "GPIO 12", "GPIO 13"
+    ]
+}
